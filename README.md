@@ -1,2 +1,1 @@
-# -FingerprintRecognize
-Quét vân tay
+# FingerprintRecognize
